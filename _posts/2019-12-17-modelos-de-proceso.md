@@ -7,7 +7,9 @@ layout: post
 
 <span class="image left"><img src="{{ 'assets/images/cascada.png' | relative_url }}" alt="" /></span>
 
+
 Las fases están identificadas por separado: 
+
 * El análisis  y definición de requerimientos
 * Diseño del sistema y software.
 * Pruebas de implementación de unidades
