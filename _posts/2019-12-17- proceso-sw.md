@@ -4,7 +4,7 @@ author: Josue Baque
 layout: post
 ---
 
-Conjunto de acBvidades necesarias para transformar las ideasiniciales del usuario, que desea automaBzar un determinadotrabajo, en software.
+Conjunto de actividades necesarias para transformar las ideasiniciales del usuario, que desea automaBzar un determinadotrabajo, en software.
 
 Conjunto ordenado de acBvidades; una serie de pasos queinvolucran tareas, restricciones y recursos que producen unadeterminada salida esperada.
 
@@ -13,10 +13,11 @@ Marco de trabajo de las tareas que se requieren para construir software de alta 
 Un conjunto estructurado de acBvidades necesarias para desarrollar un sistema de soIware.
 
 Muchos de los procesos de soIware son diferentes, pero todos implican:
-• Especificación;
-• Diseño e implementación;
-• Validación;
-• Evolución.
+
+* Especificación;
+* Diseño e implementación;
+* Validación;
+* Evolución.
 
 **CaracterísJcas del proceso de SW**
 
@@ -76,6 +77,7 @@ Las posibles heurísticas
 **Estándares relacionados con el proceso de SW**
 
 * ***Estándar ISO/IEC/IEEE 12207:2017***
+ 
  * El estándar ISO/IEC/IEEE 12207:2017 [ISO/IEC/IEEE, 2017] relativo a los procesos del ciclo de vida del software
  * Se aplica a la adquisición de sistemas de software , productos y servicios, al suministro, desarrollo, operación, mantenimiento y eliminación de productos de software o componentes de software de cualquier sistema, ya sea que se realice interna o externamente a una organización.
  * Se incluyen aquellos aspectos de la definición del sistema necesarios para  proporcionar el contexto de los productos y servicios de software
